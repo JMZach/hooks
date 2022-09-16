@@ -11,3 +11,4 @@ export {
   idMapAsList,
   idListUnique
 } from "./useIdList"
+export { default as useLocalStorage } from "./useLocalStorage"
