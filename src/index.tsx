@@ -12,3 +12,4 @@ export {
   idListUnique
 } from "./useIdList"
 export { default as useLocalStorage } from "./useLocalStorage"
+export { default as useRelativeMouseCoords } from "./useRelativeMouseCoords"

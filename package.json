@@ -41,11 +41,13 @@
     "react": "^17.0.2"
   },
   "dependencies": {
+    "js-cookie": "^3.0.1",
     "js-tokens": "^4.0.0",
     "loose-envify": "^1.4.0",
     "use-debounce": "^8.0.4"
   },
   "devDependencies": {
+    "@types/js-cookie": "^3.0.2",
     "eslint": "^8.19.0",
     "prettier": "^2.7.1",
     "typescript": "^4.7.4"
